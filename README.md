@@ -13,6 +13,12 @@ Este es un juego de Tetris simple pero desafiante, desarrollado en **Go** como p
 
 Este proyecto es una excelente manera de ver cómo Go puede usarse para desarrollar juegos retro y proporciona una excelente base para aquellos interesados en aprender sobre programación de juegos en este lenguaje.
 
+#### A tener en cuenta para correr:
+Debes poseer un carpeta componentes con las fuentes de letra e imágenes que requiere el juego, además de una subcarpeta sounds y otra de music para el respectivo ambiente de audio.
+
+Si deseas jugarlo en su forma original, te invito a visitar este enlace:
+https://fecoro.itch.io/fetris
+
 ---
 
 ## Sobre mí:

@@ -1,5 +1,6 @@
 /*
 Date: 11/2024
+Author: FERI
 Version: 1.2
 
 Este es un juego de Tetris simple escrito en Go con el motor de juegos Ebiten.
